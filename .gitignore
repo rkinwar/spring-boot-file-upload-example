@@ -1,0 +1,7 @@
+.DS_Store
+loyalty.log
+.settings
+.classpath
+.project
+.metadata
+/target/
